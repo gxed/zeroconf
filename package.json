@@ -1,0 +1,26 @@
+{
+  "author": "grandcat",
+  "bugs": {},
+  "gx": {
+    "dvcsimport": "github.com/grandcat/zeroconf"
+  },
+  "gxDependencies": [
+    {
+      "hash": "QmZyNH9LKPVqRAvBGEdcHVFvo16zxx9uPWfok1T1SzGJwF",
+      "name": "dns",
+      "version": "0.1.0"
+    },
+    {
+      "hash": "QmNgcM6QxyXhopm2pUs7CfhdSq8heYoiKB6f3yMuLCLU6W",
+      "name": "go-net",
+      "version": "0.1.2"
+    }
+  ],
+  "gxVersion": "0.8.0",
+  "issues_url": "",
+  "language": "go",
+  "license": "MIT",
+  "name": "zeroconf",
+  "version": "0.1.1"
+}
+
