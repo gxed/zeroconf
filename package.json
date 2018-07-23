@@ -6,9 +6,9 @@
   },
   "gxDependencies": [
     {
-      "hash": "QmZBbgU7ueGvSRoTvLpTfaiPuMhrmHtMwQ1PDCPBthqCTt",
+      "hash": "QmV3bVtkAhSZqWncYGonUmsVcJcV6cpzWztsFwc3A9so5m",
       "name": "dns",
-      "version": "0.2.0"
+      "version": "0.2.1"
     },
     {
       "hash": "QmRvYNctevGUW52urgmoFZscT6buMKqhHezLUS64WepGWn",
