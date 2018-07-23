@@ -14,6 +14,12 @@
       "hash": "QmRvYNctevGUW52urgmoFZscT6buMKqhHezLUS64WepGWn",
       "name": "go-net",
       "version": "0.2.0"
+    },
+    {
+      "author": "cenkalti",
+      "hash": "QmQomSd6cHhpoVT2WFTLUqQBCHpaZkRWPBXQj4bdBmbcgN",
+      "name": "backoff",
+      "version": "0.1.0"
     }
   ],
   "gxVersion": "0.8.0",
